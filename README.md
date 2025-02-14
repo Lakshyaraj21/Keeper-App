@@ -7,8 +7,8 @@ A simple and intuitive note-taking application built with React.js, inspired by 
 ✅ Create notes with a title and content  
 ✅ Delete notes when no longer needed  
 ✅ Responsive and minimalistic UI  
-✅ Uses Material-UI for icons and enhanced input expansion
 ✅ Built with React.js and deployed on CodeSandbox  
+✅ Uses Material-UI for icons and enhanced input expansion
 
 ## Tech Stack
 
